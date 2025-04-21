@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\CProjects\\TextRPG\\TextRPG\\TextRPG.csproj": {}
+    "C:\\Users\\User\\Desktop\\githubdesk\\3rd_Week_TextRPG\\TextRPG\\TextRPG\\TextRPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\CProjects\\TextRPG\\TextRPG\\TextRPG.csproj": {
+    "C:\\Users\\User\\Desktop\\githubdesk\\3rd_Week_TextRPG\\TextRPG\\TextRPG\\TextRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CProjects\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\githubdesk\\3rd_Week_TextRPG\\TextRPG\\TextRPG\\TextRPG.csproj",
         "projectName": "TextRPG",
-        "projectPath": "C:\\Users\\User\\Desktop\\CProjects\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\githubdesk\\3rd_Week_TextRPG\\TextRPG\\TextRPG\\TextRPG.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CProjects\\TextRPG\\TextRPG\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\githubdesk\\3rd_Week_TextRPG\\TextRPG\\TextRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
