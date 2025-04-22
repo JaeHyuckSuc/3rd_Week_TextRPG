@@ -89,6 +89,7 @@ namespace TextRPG.CharacterManagemant
                 SkillType = skillType;
                 SkillCastMessage = skillcastMessage;
             }
+        }
 
 
             public List<Skill> Skills { get; set; } = new List<Skill>();
@@ -104,7 +105,7 @@ namespace TextRPG.CharacterManagemant
                         Console.WriteLine($"  대사: \"{skill.SkillCastMessage}\"");
                 }
             }
-        }
+        
         // 상태 보기
         public void ShowStatus()
         {
